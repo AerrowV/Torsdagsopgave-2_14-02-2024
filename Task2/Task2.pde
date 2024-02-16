@@ -14,7 +14,7 @@ boolean happy = true;
 }
 
 boolean iAmHappy(){
-  return true; // Add <true> to <return>
+  return happy; // Add <true> to <return>
 }
 
 */
